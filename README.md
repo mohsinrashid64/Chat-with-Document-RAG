@@ -17,7 +17,7 @@ This repository contains code for interacting with a document using a combinatio
 	```
 
 5. Create an `.env` file and add the following variable:
-	```sh
+	```
 	OPENAI_API_KEY=<your_openai_api_key>
 	```
 	Replace `<your_openai_api_key>` with your actual OpenAI API key.
