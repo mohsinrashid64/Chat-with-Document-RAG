@@ -11,7 +11,7 @@ This repository contains code for interacting with a document using a combinatio
 	```sh
 	.\.venv\Scripts\activate
 	```
- 	For Linux and Max:
+ 	For Linux and Mac:
 	```sh
  	source .venv/bin/activate
  	```
