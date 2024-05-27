@@ -21,3 +21,4 @@ This repository contains code for interacting with a document using a combinatio
 	OPENAI_API_KEY=<your_openai_api_key>
 	```
 	Replace `<your_openai_api_key>` with your actual OpenAI API key.
+6. Run the Jupyter Notebook: To test the functionality, open the `chat_with_doc.ipynb` file and start running the code. You can also use your own text files for experimentation.
